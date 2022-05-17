@@ -27,11 +27,20 @@ header {
     justify-content: space-between;
 }
 
+a,
 .roboto {
     color: #0E0C0A;
     font-family: "Roboto", sans-serif;
     font-size: 20PX;
     text-decoration: none;
+}
+
+a:link {
+    color: #845038;
+}
+
+a:visited {
+    color: #0E0C0A;
 }
 
 a:hover {
