@@ -17,6 +17,7 @@ body {
     background: linear-gradient(to right, #DFD8D4 0%, #DFD8D4 54%, #DFD8D4 50%);
     margin: auto;
     max-width: 1440px;
+    width: 100%;
     padding: 20px 20px 0px 20px;
 }
 
@@ -71,7 +72,7 @@ main {
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: scroll;
-    height: 585px;
+    height: 92vh;
     text-align: center;
 }
 
